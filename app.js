@@ -1279,20 +1279,24 @@ function renderCityPicker() {
 }
 
 async function loadDatasets() {
-  const entries = await Promise.all(
+  const results = await Promise.all(
     Object.entries(DATASETS).map(async ([key, url]) => {
       const response = await fetch(url);
-      if (!response.ok) throw new Error(`Nao foi possivel carregar ${url}`);
+      if (!response.ok) {
+        console.warn(`Base opcional nao encontrada: ${url}`);
+        return [key, []];
+      }
       return [key, await response.json()];
     }),
   );
-  appData = Object.fromEntries(entries);
+  appData = Object.fromEntries(results);
 }
 
 function populateYearFilter() {
   const years = [...new Set((appData.pib || []).map((row) => Number(row.ano)))]
     .filter(Boolean)
     .sort((a, b) => a - b);
+  if (!years.length) years.push(2021);
   selectedYear = years.includes(2021) ? 2021 : years[0];
   selectedTrendYear = selectedYear;
   selectedYears.clear();

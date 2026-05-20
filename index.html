@@ -1,0 +1,502 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Observatorio Economico do RN</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIINfQ7LTIpm4tFChqb7s9I2p+5F9eZx1M="
+      crossorigin=""
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <aside class="sidebar" aria-label="Menu lateral">
+      <h1>Observatorio Economico do RN</h1>
+
+      <section class="filters" aria-label="Filtros">
+        <label>
+          <span>Municipios</span>
+          <div class="multi-picker" id="municipio-picker">
+            <button id="municipio-picker-toggle" class="picker-toggle" type="button">
+              Nenhuma cidade selecionada
+            </button>
+            <div id="municipio-picker-menu" class="picker-menu">
+              <input id="city-search" type="search" placeholder="Pesquisar cidade" />
+              <div class="picker-actions">
+                <button id="select-all-cities" type="button">Selecionar todos</button>
+                <button id="deselect-all-cities" type="button">Tirar selecao</button>
+              </div>
+              <div class="picker-group-title">Regioes</div>
+              <div id="region-list" class="picker-list region-list"></div>
+              <div class="picker-group-title">Cidades</div>
+              <div id="city-list" class="picker-list city-list"></div>
+            </div>
+          </div>
+        </label>
+        <label>
+          <span>Anos</span>
+          <div class="multi-picker" id="year-picker">
+            <button id="year-picker-toggle" class="picker-toggle" type="button">2021</button>
+            <div id="year-picker-menu" class="picker-menu compact-picker-menu">
+              <div class="picker-actions">
+                <button id="select-all-years" type="button">Selecionar todos</button>
+                <button id="deselect-all-years" type="button">Tirar selecao</button>
+              </div>
+              <div id="year-list" class="picker-list year-list"></div>
+            </div>
+          </div>
+        </label>
+        <p>Use o mapa ou o ranking para selecionar uma ou mais cidades.</p>
+        <button id="clear-selection" type="button">Limpar Filtros</button>
+      </section>
+
+      <nav class="side-nav" aria-label="Secoes do observatorio">
+        <button class="is-active" type="button" data-view="overview">Visao Geral</button>
+        <button type="button" data-view="economic-activity">Atividade Economica</button>
+        <button type="button" data-view="income">PIB e Renda</button>
+        <button type="button" data-view="structure">Estrutura Economica</button>
+        <button type="button" data-view="ipc">IPC / Inflacao</button>
+        <button type="button" data-view="basket">Cesta Basica</button>
+        <button type="button" data-view="demography">Demografia</button>
+        <button type="button" data-view="public-accounts">Contas Publicas</button>
+        <button type="button" data-view="education">Educacao</button>
+        <button type="button" data-view="jobs">Emprego Formal</button>
+        <button type="button" data-view="movement">Movimentacao do Emprego</button>
+        <button type="button" data-view="employment-size">Empregados por Porte</button>
+        <button type="button" data-view="employment-profile">Sexo e Raca</button>
+        <button type="button" data-view="employment-education">Escolaridade</button>
+        <button type="button" data-view="catalog">Catalogo</button>
+      </nav>
+    </aside>
+
+    <main class="content">
+      <section id="view-overview" class="view view-overview is-active">
+        <article class="overview-economy tab-panel panel-blue">
+          <header>Economia em Numeros</header>
+          <div class="placeholder-grid metric-grid">
+            <div><strong id="home-selected-cities">--</strong><span>Municipios na selecao</span></div>
+            <div><strong id="home-pib-total">--</strong><span>PIBpc total</span></div>
+            <div><strong id="home-vab-total">--</strong><span>VAB total</span></div>
+            <div><strong id="home-jobs-total">--</strong><span>Empregos formais</span></div>
+            <div><strong id="home-caged-balance">--</strong><span>Saldo CAGED</span></div>
+            <div><strong id="home-population-rn">--</strong><span>Populacao RN</span></div>
+            <div><strong id="home-best-city">--</strong><span>Maior PIBpc no ano</span></div>
+            <div><strong id="home-data-status">--</strong><span>Indicadores integrados</span></div>
+          </div>
+          <div id="selected-summary" class="selected-summary">
+            Passe o mouse ou clique em um municipio.
+          </div>
+        </article>
+
+        <section class="headline" aria-label="Titulo e resumo">
+          <h1>Produto Interno Bruto a Precos Correntes (PIBpc)</h1>
+          <p>PIBpc Total</p>
+          <strong id="total-pib">--</strong>
+        </section>
+
+        <section class="ranking-card" aria-label="Ranking de municipios por PIB">
+          <div class="scale">
+            <span>PIBpc</span>
+            <div class="scale-bar"></div>
+            <small id="scale-min">--</small>
+            <small id="scale-mid">--</small>
+            <small id="scale-max">--</small>
+          </div>
+          <div id="ranking" class="ranking"></div>
+        </section>
+
+        <section class="map-card" aria-label="PIB por municipio">
+          <h2>PIBpc por Municipio</h2>
+          <div id="map"></div>
+          <div id="loading" class="loading">Carregando dados...</div>
+        </section>
+
+        <section class="trend-card" aria-label="PIB por ano">
+          <h2 id="overview-trend-title">PIBpc por Ano</h2>
+          <div id="overview-trend-metrics" class="trend-metrics"></div>
+          <div class="trend">
+            <svg id="trend-chart" viewBox="0 0 620 260" role="img"></svg>
+          </div>
+        </section>
+      </section>
+
+      <section id="view-economic-activity" class="view tab-page map-tab">
+        <article class="tab-panel panel-blue tab-map-panel">
+          <header>Mapa interativo</header>
+          <div id="map-economic-activity" class="tab-map"></div>
+        </article>
+        <article class="tab-panel panel-blue">
+          <header>Resumo da atividade economica</header>
+          <div class="placeholder-grid">
+            <div><strong>PIBpc</strong><span>Usar dados de PIB municipal</span></div>
+            <div><strong>VABpc</strong><span>Usar valor adicionado total</span></div>
+            <div><strong>Emprego formal</strong><span>Usar RAIS</span></div>
+            <div><strong>Saldo CAGED</strong><span>Usar movimentacao mensal</span></div>
+          </div>
+        </article>
+        <article class="tab-panel panel-green">
+          <header>Evolucao dos indicadores economicos</header>
+          <div class="empty-chart">
+            <h2>Modelo de grafico combinado</h2>
+            <p>Comparar PIB, VAB, emprego formal e saldo CAGED quando a serie final estiver consolidada.</p>
+          </div>
+        </article>
+      </section>
+
+      <section id="view-income" class="view tab-page map-tab">
+        <article class="tab-panel panel-blue tab-map-panel">
+          <header>Mapa interativo</header>
+          <div id="map-income" class="tab-map"></div>
+        </article>
+        <article class="tab-panel panel-blue">
+          <header>PIB municipal</header>
+          <div id="income-pib-chart" class="chart-box"></div>
+        </article>
+        <article class="tab-panel panel-green">
+          <header>PIB per capita</header>
+          <div id="income-per-capita-chart" class="chart-box"></div>
+        </article>
+        <article class="tab-panel panel-orange">
+          <header>Crescimento anual do PIB</header>
+          <div id="income-growth-chart" class="chart-box"></div>
+        </article>
+        <article class="tab-panel panel-orange">
+          <header>Tabela anual</header>
+          <table id="income-table">
+            <thead>
+              <tr>
+                <th>municipio</th>
+                <th>ano</th>
+                <th>pib</th>
+                <th>pib_per_capita</th>
+                <th>crescimento_pib_pct</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td colspan="5">Dados anuais serao adicionados depois.</td>
+              </tr>
+            </tbody>
+          </table>
+        </article>
+      </section>
+
+      <section id="view-ipc" class="view tab-page">
+        <article class="tab-panel panel-blue">
+          <header>Indice de Precos ao Consumidor</header>
+          <div class="placeholder-grid">
+            <div><strong>IPC acumulado</strong><span>Dados pendentes</span></div>
+            <div><strong>Variacao mensal</strong><span>Dados pendentes</span></div>
+            <div><strong>Maior alta</strong><span>Dados pendentes</span></div>
+            <div><strong>Maior queda</strong><span>Dados pendentes</span></div>
+          </div>
+        </article>
+        <article class="tab-panel panel-green">
+          <header>Variacao mensal do IPC</header>
+          <div id="ipc-bcb-chart" class="chart-box"></div>
+        </article>
+        <article class="tab-panel panel-cyan">
+          <header>Fonte prevista</header>
+          <p>Serie macro integrada do Banco Central/SGS. Para dado local do RN, ainda falta definir fonte estadual ou municipal.</p>
+        </article>
+      </section>
+
+      <section id="view-basket" class="view tab-page">
+        <article class="tab-panel panel-blue">
+          <header>Cesta Basica</header>
+          <div class="placeholder-grid">
+            <div><strong>Valor atual</strong><span>Dados pendentes</span></div>
+            <div><strong>Variacao mensal</strong><span>Dados pendentes</span></div>
+            <div><strong>Peso no salario minimo</strong><span>Dados pendentes</span></div>
+            <div><strong>Serie historica</strong><span>Dados pendentes</span></div>
+          </div>
+        </article>
+        <article class="tab-panel panel-orange">
+          <header>Tabela de itens da cesta</header>
+          <table>
+            <thead><tr><th>item</th><th>valor</th><th>variacao_mes</th><th>fonte</th></tr></thead>
+            <tbody><tr><td colspan="4">Dados da cesta basica serao adicionados depois.</td></tr></tbody>
+          </table>
+        </article>
+      </section>
+
+      <section id="view-demography" class="view tab-page">
+        <article class="tab-panel panel-blue">
+          <header>Demografia</header>
+          <div class="placeholder-grid">
+            <div><strong id="demography-current-population">--</strong><span>Populacao RN mais recente</span></div>
+            <div><strong>2012-2025</strong><span>Serie estadual integrada</span></div>
+            <div><strong>UF</strong><span>Nivel territorial disponivel</span></div>
+            <div><strong>Municipal</strong><span>Dados ainda pendentes</span></div>
+          </div>
+        </article>
+        <article class="tab-panel panel-green">
+          <header>Populacao residente do RN</header>
+          <div id="demography-population-chart" class="chart-box"></div>
+        </article>
+        <article class="tab-panel panel-orange">
+          <header>Tabela estadual</header>
+          <table id="demography-table"></table>
+        </article>
+        <article class="tab-panel panel-cyan">
+          <header>Nota de uso</header>
+          <p>A tabela 7436 do SIDRA foi integrada apenas para o Rio Grande do Norte agregado. Ela nao substitui a busca por populacao municipal dos 167 municipios.</p>
+        </article>
+      </section>
+
+      <section id="view-public-accounts" class="view tab-page map-tab">
+        <article class="tab-panel panel-blue tab-map-panel">
+          <header>Mapa interativo</header>
+          <div id="map-public-accounts" class="tab-map"></div>
+        </article>
+        <article class="tab-panel panel-blue">
+          <header>Contas publicas municipais</header>
+          <div class="placeholder-grid">
+            <div><strong>Receitas</strong><span>Fonte oficial pendente</span></div>
+            <div><strong>Despesas</strong><span>Fonte oficial pendente</span></div>
+            <div><strong>Investimentos</strong><span>Fonte oficial pendente</span></div>
+            <div><strong>Dependencia</strong><span>Fonte oficial pendente</span></div>
+          </div>
+        </article>
+        <article class="tab-panel panel-green">
+          <header>Evolucao fiscal</header>
+          <div class="empty-chart">
+            <h2>Modelo: receitas, despesas e resultado</h2>
+            <p>Preparado para receber dados do SICONFI/Tesouro Nacional.</p>
+          </div>
+        </article>
+        <article class="tab-panel panel-orange">
+          <header>Tabela fiscal</header>
+          <table>
+            <thead><tr><th>municipio</th><th>ano</th><th>receita</th><th>despesa</th><th>investimento</th><th>resultado</th></tr></thead>
+            <tbody><tr><td colspan="6">Dados de contas publicas serao adicionados depois.</td></tr></tbody>
+          </table>
+        </article>
+      </section>
+
+      <section id="view-education" class="view tab-page map-tab">
+        <article class="tab-panel panel-blue tab-map-panel">
+          <header>Mapa interativo</header>
+          <div id="map-education" class="tab-map"></div>
+        </article>
+        <article class="tab-panel panel-blue">
+          <header>Educacao</header>
+          <div class="placeholder-grid">
+            <div><strong>Escolas</strong><span>INEP pendente</span></div>
+            <div><strong>Docentes</strong><span>INEP pendente</span></div>
+            <div><strong>Matriculas</strong><span>INEP pendente</span></div>
+            <div><strong>Desempenho</strong><span>INEP pendente</span></div>
+          </div>
+        </article>
+        <article class="tab-panel panel-green">
+          <header>Serie educacional</header>
+          <div class="empty-chart">
+            <h2>Modelo: evolucao de matriculas e escolas</h2>
+            <p>Preparado para receber sinopses ou microdados oficiais do INEP.</p>
+          </div>
+        </article>
+        <article class="tab-panel panel-orange">
+          <header>Tabela educacional</header>
+          <table>
+            <thead><tr><th>municipio</th><th>ano</th><th>escolas</th><th>docentes</th><th>matriculas</th><th>indicador</th></tr></thead>
+            <tbody><tr><td colspan="6">Dados de educacao serao adicionados depois.</td></tr></tbody>
+          </table>
+        </article>
+      </section>
+
+      <section id="view-structure" class="view tab-page map-tab">
+        <article class="tab-panel panel-blue tab-map-panel">
+          <header>Mapa interativo</header>
+          <div id="map-structure" class="tab-map"></div>
+        </article>
+        <article class="tab-panel panel-blue">
+          <header>Estrutura economica da selecao</header>
+          <div id="structure-chart" class="chart-box"></div>
+        </article>
+        <article class="tab-panel panel-orange">
+          <header>Resumo da estrutura economica</header>
+          <table id="structure-table">
+            <thead>
+              <tr>
+                <th>municipio</th>
+                <th>ano</th>
+                <th>va</th>
+                <th>industria_pct</th>
+                <th>servicos_pct</th>
+                <th>administracao_publica_pct</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td colspan="6">Tabela preparada para receber os dados do VAB.</td>
+              </tr>
+            </tbody>
+          </table>
+        </article>
+      </section>
+
+      <section id="view-jobs" class="view tab-page map-tab">
+        <article class="tab-panel panel-blue tab-map-panel">
+          <header>Mapa interativo</header>
+          <div id="map-jobs" class="tab-map"></div>
+        </article>
+        <article class="tab-panel panel-blue tall-empty">
+          <header>Serie de emprego formal</header>
+          <div id="jobs-chart" class="chart-box"></div>
+        </article>
+        <article class="tab-panel panel-green">
+          <header>Variacao anual do emprego formal</header>
+          <div id="jobs-variation-chart" class="chart-box"></div>
+        </article>
+        <article class="tab-panel panel-orange">
+          <header>Top setores na selecao</header>
+          <div id="jobs-sector-ranking" class="mini-ranking"></div>
+        </article>
+        <article class="tab-panel panel-cyan">
+          <header>Fontes dos indicadores desta aba</header>
+          <ul>
+            <li><strong>Emprego formal total:</strong> RAIS</li>
+            <li><strong>Vinculos CLT:</strong> RAIS</li>
+            <li><strong>Vinculos estatutarios:</strong> RAIS</li>
+            <li><strong>Emprego por setor:</strong> RAIS</li>
+          </ul>
+        </article>
+      </section>
+
+      <section id="view-movement" class="view tab-page map-tab">
+        <article class="tab-panel panel-blue tab-map-panel">
+          <header>Mapa interativo</header>
+          <div id="map-movement" class="tab-map"></div>
+        </article>
+        <article class="tab-panel panel-blue tall-empty">
+          <header>Saldo mensal do CAGED</header>
+          <div id="movement-chart" class="chart-box"></div>
+        </article>
+        <article class="tab-panel panel-green">
+          <header>Saldo por ano</header>
+          <div id="movement-year-balance-chart" class="chart-box"></div>
+        </article>
+        <article class="tab-panel panel-orange">
+          <header>Ultimos 12 registros filtrados</header>
+          <table id="movement-table"></table>
+        </article>
+        <article class="tab-panel panel-cyan">
+          <header>Fontes dos indicadores desta aba</header>
+          <ul>
+            <li><strong>Desligamentos:</strong> CAGED</li>
+            <li><strong>Saldo de movimentacao:</strong> CAGED</li>
+            <li><strong>Admissoes:</strong> CAGED</li>
+            <li><strong>Salario medio das admissoes:</strong> CAGED</li>
+          </ul>
+        </article>
+      </section>
+
+      <section id="view-employment-size" class="view tab-page map-tab">
+        <article class="tab-panel panel-blue tab-map-panel">
+          <header>Mapa interativo</header>
+          <div id="map-employment-size" class="tab-map"></div>
+        </article>
+        <article class="tab-panel panel-blue">
+          <header>Empregados por porte</header>
+          <div class="empty-chart">
+            <h2>Modelo: micro, pequena, media e grande empresa</h2>
+            <p>Dados pendentes por porte do estabelecimento.</p>
+          </div>
+        </article>
+        <article class="tab-panel panel-orange">
+          <header>Resumo por municipio</header>
+          <table>
+            <thead><tr><th>municipio</th><th>ano</th><th>micro</th><th>pequena</th><th>media</th><th>grande</th></tr></thead>
+            <tbody><tr><td colspan="6">Dados por porte serao adicionados depois.</td></tr></tbody>
+          </table>
+        </article>
+      </section>
+
+      <section id="view-employment-profile" class="view tab-page map-tab">
+        <article class="tab-panel panel-blue tab-map-panel">
+          <header>Mapa interativo</header>
+          <div id="map-employment-profile" class="tab-map"></div>
+        </article>
+        <article class="tab-panel panel-blue">
+          <header>Empregados por sexo e raca</header>
+          <div class="empty-chart">
+            <h2>Modelo: composicao do emprego formal</h2>
+            <p>Dados pendentes por sexo, raca/cor e municipio.</p>
+          </div>
+        </article>
+        <article class="tab-panel panel-green">
+          <header>Participacao percentual</header>
+          <div class="empty-chart">
+            <h2>Modelo: barras empilhadas</h2>
+            <p>Preparado para composicao percentual por grupo.</p>
+          </div>
+        </article>
+      </section>
+
+      <section id="view-employment-education" class="view tab-page map-tab">
+        <article class="tab-panel panel-blue tab-map-panel">
+          <header>Mapa interativo</header>
+          <div id="map-employment-education" class="tab-map"></div>
+        </article>
+        <article class="tab-panel panel-blue">
+          <header>Empregados por escolaridade</header>
+          <div class="empty-chart">
+            <h2>Modelo: nivel de escolaridade</h2>
+            <p>Dados pendentes por grau de instrucao e municipio.</p>
+          </div>
+        </article>
+        <article class="tab-panel panel-orange">
+          <header>Tabela de escolaridade</header>
+          <table>
+            <thead><tr><th>municipio</th><th>ano</th><th>escolaridade</th><th>vinculos</th><th>participacao</th></tr></thead>
+            <tbody><tr><td colspan="5">Dados por escolaridade serao adicionados depois.</td></tr></tbody>
+          </table>
+        </article>
+      </section>
+
+      <section id="view-catalog" class="view tab-page">
+        <article class="tab-panel panel-blue">
+          <header>Catalogo oficial de indicadores</header>
+          <table>
+            <thead>
+              <tr>
+                <th>aba</th>
+                <th>indicador</th>
+                <th>fonte</th>
+                <th>unidade</th>
+                <th>periodicidade</th>
+                <th>mapa_filtro</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr><td>Visao Geral</td><td>PIB municipal</td><td>IBGE</td><td>R$ mil</td><td>Anual</td><td>Sim</td></tr>
+              <tr><td>PIB e Renda</td><td>PIB per capita</td><td>PIB + Populacao</td><td>R$/hab</td><td>Anual</td><td>Sim</td></tr>
+              <tr><td>Estrutura Economica</td><td>VAB total</td><td>IBGE</td><td>R$ mil</td><td>Anual</td><td>Sim</td></tr>
+              <tr><td>Emprego Formal</td><td>Emprego formal total</td><td>RAIS</td><td>Vinculos</td><td>Anual</td><td>Sim</td></tr>
+              <tr><td>Movimentacao do Emprego</td><td>Saldo de movimentacao</td><td>CAGED</td><td>Movimentos</td><td>Mensal</td><td>Sim</td></tr>
+              <tr><td>IPC / Inflacao</td><td>Indice de precos ao consumidor</td><td>Pendente</td><td>%</td><td>Mensal</td><td>Nao</td></tr>
+              <tr><td>Cesta Basica</td><td>Valor da cesta basica</td><td>Pendente</td><td>R$</td><td>Mensal</td><td>Nao</td></tr>
+              <tr><td>Empregados por Porte</td><td>Vinculos por porte</td><td>RAIS/DataSebrae</td><td>Vinculos</td><td>Anual</td><td>Sim</td></tr>
+              <tr><td>Sexo e Raca</td><td>Vinculos por sexo e raca</td><td>RAIS/DataSebrae</td><td>Vinculos</td><td>Anual</td><td>Sim</td></tr>
+              <tr><td>Escolaridade</td><td>Vinculos por escolaridade</td><td>RAIS/DataSebrae</td><td>Vinculos</td><td>Anual</td><td>Sim</td></tr>
+            </tbody>
+          </table>
+        </article>
+        <article class="tab-panel panel-orange">
+          <header>Controle de coleta dos indicadores</header>
+          <table id="indicator-control-table"></table>
+        </article>
+      </section>
+    </main>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="app.js"></script>
+  </body>
+</html>

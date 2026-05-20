@@ -1,0 +1,4010 @@
+[
+  {
+    "codigo_municipio": "2400109",
+    "nome_municipio": "Acari",
+    "ano": 2021,
+    "populacao_estimada": 11106,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2400109",
+    "nome_municipio": "Acari",
+    "ano": 2024,
+    "populacao_estimada": 10865,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2400109",
+    "nome_municipio": "Acari",
+    "ano": 2025,
+    "populacao_estimada": 10855,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2400208",
+    "nome_municipio": "Açu",
+    "ano": 2021,
+    "populacao_estimada": 58743,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2400208",
+    "nome_municipio": "Açu",
+    "ano": 2024,
+    "populacao_estimada": 58906,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2400208",
+    "nome_municipio": "Açu",
+    "ano": 2025,
+    "populacao_estimada": 59099,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2400307",
+    "nome_municipio": "Afonso Bezerra",
+    "ano": 2021,
+    "populacao_estimada": 11024,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2400307",
+    "nome_municipio": "Afonso Bezerra",
+    "ano": 2024,
+    "populacao_estimada": 11149,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2400307",
+    "nome_municipio": "Afonso Bezerra",
+    "ano": 2025,
+    "populacao_estimada": 11158,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2400406",
+    "nome_municipio": "Água Nova",
+    "ano": 2021,
+    "populacao_estimada": 3293,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2400406",
+    "nome_municipio": "Água Nova",
+    "ano": 2024,
+    "populacao_estimada": 3028,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2400406",
+    "nome_municipio": "Água Nova",
+    "ano": 2025,
+    "populacao_estimada": 3029,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2400505",
+    "nome_municipio": "Alexandria",
+    "ano": 2021,
+    "populacao_estimada": 13529,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2400505",
+    "nome_municipio": "Alexandria",
+    "ano": 2024,
+    "populacao_estimada": 14042,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2400505",
+    "nome_municipio": "Alexandria",
+    "ano": 2025,
+    "populacao_estimada": 14058,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2400604",
+    "nome_municipio": "Almino Afonso",
+    "ano": 2021,
+    "populacao_estimada": 4685,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2400604",
+    "nome_municipio": "Almino Afonso",
+    "ano": 2024,
+    "populacao_estimada": 4806,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2400604",
+    "nome_municipio": "Almino Afonso",
+    "ano": 2025,
+    "populacao_estimada": 4802,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2400703",
+    "nome_municipio": "Alto do Rodrigues",
+    "ano": 2021,
+    "populacao_estimada": 14923,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2400703",
+    "nome_municipio": "Alto do Rodrigues",
+    "ano": 2024,
+    "populacao_estimada": 12857,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2400703",
+    "nome_municipio": "Alto do Rodrigues",
+    "ano": 2025,
+    "populacao_estimada": 12874,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2400802",
+    "nome_municipio": "Angicos",
+    "ano": 2021,
+    "populacao_estimada": 11695,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2400802",
+    "nome_municipio": "Angicos",
+    "ano": 2024,
+    "populacao_estimada": 11973,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2400802",
+    "nome_municipio": "Angicos",
+    "ano": 2025,
+    "populacao_estimada": 11985,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2400901",
+    "nome_municipio": "Antônio Martins",
+    "ano": 2021,
+    "populacao_estimada": 7162,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2400901",
+    "nome_municipio": "Antônio Martins",
+    "ano": 2024,
+    "populacao_estimada": 6738,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2400901",
+    "nome_municipio": "Antônio Martins",
+    "ano": 2025,
+    "populacao_estimada": 6730,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401008",
+    "nome_municipio": "Apodi",
+    "ano": 2021,
+    "populacao_estimada": 35904,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401008",
+    "nome_municipio": "Apodi",
+    "ano": 2024,
+    "populacao_estimada": 37390,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401008",
+    "nome_municipio": "Apodi",
+    "ano": 2025,
+    "populacao_estimada": 37486,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401107",
+    "nome_municipio": "Areia Branca",
+    "ano": 2021,
+    "populacao_estimada": 28156,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401107",
+    "nome_municipio": "Areia Branca",
+    "ano": 2024,
+    "populacao_estimada": 24643,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401107",
+    "nome_municipio": "Areia Branca",
+    "ano": 2025,
+    "populacao_estimada": 24607,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401206",
+    "nome_municipio": "Arês",
+    "ano": 2021,
+    "populacao_estimada": 14526,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401206",
+    "nome_municipio": "Arês",
+    "ano": 2024,
+    "populacao_estimada": 13657,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401206",
+    "nome_municipio": "Arês",
+    "ano": 2025,
+    "populacao_estimada": 13681,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401305",
+    "nome_municipio": "Campo Grande",
+    "ano": 2021,
+    "populacao_estimada": 9686,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401305",
+    "nome_municipio": "Campo Grande",
+    "ano": 2024,
+    "populacao_estimada": 10045,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401305",
+    "nome_municipio": "Campo Grande",
+    "ano": 2025,
+    "populacao_estimada": 10071,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401404",
+    "nome_municipio": "Baía Formosa",
+    "ano": 2021,
+    "populacao_estimada": 9373,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401404",
+    "nome_municipio": "Baía Formosa",
+    "ano": 2024,
+    "populacao_estimada": 9098,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401404",
+    "nome_municipio": "Baía Formosa",
+    "ano": 2025,
+    "populacao_estimada": 9115,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401453",
+    "nome_municipio": "Baraúna",
+    "ano": 2021,
+    "populacao_estimada": 29112,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401453",
+    "nome_municipio": "Baraúna",
+    "ano": 2024,
+    "populacao_estimada": 28268,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401453",
+    "nome_municipio": "Baraúna",
+    "ano": 2025,
+    "populacao_estimada": 28415,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401503",
+    "nome_municipio": "Barcelona",
+    "ano": 2021,
+    "populacao_estimada": 3989,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401503",
+    "nome_municipio": "Barcelona",
+    "ano": 2024,
+    "populacao_estimada": 4103,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401503",
+    "nome_municipio": "Barcelona",
+    "ano": 2025,
+    "populacao_estimada": 4108,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401602",
+    "nome_municipio": "Bento Fernandes",
+    "ano": 2021,
+    "populacao_estimada": 5552,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401602",
+    "nome_municipio": "Bento Fernandes",
+    "ano": 2024,
+    "populacao_estimada": 4920,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401602",
+    "nome_municipio": "Bento Fernandes",
+    "ano": 2025,
+    "populacao_estimada": 4911,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401651",
+    "nome_municipio": "Bodó",
+    "ano": 2021,
+    "populacao_estimada": 2171,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401651",
+    "nome_municipio": "Bodó",
+    "ano": 2024,
+    "populacao_estimada": 2363,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401651",
+    "nome_municipio": "Bodó",
+    "ano": 2025,
+    "populacao_estimada": 2360,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401701",
+    "nome_municipio": "Bom Jesus",
+    "ano": 2021,
+    "populacao_estimada": 10323,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401701",
+    "nome_municipio": "Bom Jesus",
+    "ano": 2024,
+    "populacao_estimada": 10279,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401701",
+    "nome_municipio": "Bom Jesus",
+    "ano": 2025,
+    "populacao_estimada": 10308,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401800",
+    "nome_municipio": "Brejinho",
+    "ano": 2021,
+    "populacao_estimada": 12873,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401800",
+    "nome_municipio": "Brejinho",
+    "ano": 2024,
+    "populacao_estimada": 12603,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401800",
+    "nome_municipio": "Brejinho",
+    "ano": 2025,
+    "populacao_estimada": 12638,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401859",
+    "nome_municipio": "Caiçara do Norte",
+    "ano": 2021,
+    "populacao_estimada": 6572,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401859",
+    "nome_municipio": "Caiçara do Norte",
+    "ano": 2024,
+    "populacao_estimada": 6474,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401859",
+    "nome_municipio": "Caiçara do Norte",
+    "ano": 2025,
+    "populacao_estimada": 6479,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401909",
+    "nome_municipio": "Caiçara do Rio do Vento",
+    "ano": 2021,
+    "populacao_estimada": 3745,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401909",
+    "nome_municipio": "Caiçara do Rio do Vento",
+    "ano": 2024,
+    "populacao_estimada": 3359,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2401909",
+    "nome_municipio": "Caiçara do Rio do Vento",
+    "ano": 2025,
+    "populacao_estimada": 3360,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402006",
+    "nome_municipio": "Caicó",
+    "ano": 2021,
+    "populacao_estimada": 68726,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402006",
+    "nome_municipio": "Caicó",
+    "ano": 2024,
+    "populacao_estimada": 63339,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402006",
+    "nome_municipio": "Caicó",
+    "ano": 2025,
+    "populacao_estimada": 63338,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402105",
+    "nome_municipio": "Campo Redondo",
+    "ano": 2021,
+    "populacao_estimada": 11363,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402105",
+    "nome_municipio": "Campo Redondo",
+    "ano": 2024,
+    "populacao_estimada": 10504,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402105",
+    "nome_municipio": "Campo Redondo",
+    "ano": 2025,
+    "populacao_estimada": 10510,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402204",
+    "nome_municipio": "Canguaretama",
+    "ano": 2021,
+    "populacao_estimada": 34814,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402204",
+    "nome_municipio": "Canguaretama",
+    "ano": 2024,
+    "populacao_estimada": 30806,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402204",
+    "nome_municipio": "Canguaretama",
+    "ano": 2025,
+    "populacao_estimada": 30789,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402303",
+    "nome_municipio": "Caraúbas",
+    "ano": 2021,
+    "populacao_estimada": 20588,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402303",
+    "nome_municipio": "Caraúbas",
+    "ano": 2024,
+    "populacao_estimada": 20161,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402303",
+    "nome_municipio": "Caraúbas",
+    "ano": 2025,
+    "populacao_estimada": 20182,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402402",
+    "nome_municipio": "Carnaúba dos Dantas",
+    "ano": 2021,
+    "populacao_estimada": 8297,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402402",
+    "nome_municipio": "Carnaúba dos Dantas",
+    "ano": 2024,
+    "populacao_estimada": 8267,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402402",
+    "nome_municipio": "Carnaúba dos Dantas",
+    "ano": 2025,
+    "populacao_estimada": 8296,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402501",
+    "nome_municipio": "Carnaubais",
+    "ano": 2021,
+    "populacao_estimada": 10972,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402501",
+    "nome_municipio": "Carnaubais",
+    "ano": 2024,
+    "populacao_estimada": 10010,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402501",
+    "nome_municipio": "Carnaubais",
+    "ano": 2025,
+    "populacao_estimada": 10026,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402600",
+    "nome_municipio": "Ceará-Mirim",
+    "ano": 2021,
+    "populacao_estimada": 74268,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402600",
+    "nome_municipio": "Ceará-Mirim",
+    "ano": 2024,
+    "populacao_estimada": 83009,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402600",
+    "nome_municipio": "Ceará-Mirim",
+    "ano": 2025,
+    "populacao_estimada": 83543,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402709",
+    "nome_municipio": "Cerro Corá",
+    "ano": 2021,
+    "populacao_estimada": 11182,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402709",
+    "nome_municipio": "Cerro Corá",
+    "ano": 2024,
+    "populacao_estimada": 11322,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402709",
+    "nome_municipio": "Cerro Corá",
+    "ano": 2025,
+    "populacao_estimada": 11334,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402808",
+    "nome_municipio": "Coronel Ezequiel",
+    "ano": 2021,
+    "populacao_estimada": 5501,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402808",
+    "nome_municipio": "Coronel Ezequiel",
+    "ano": 2024,
+    "populacao_estimada": 5241,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402808",
+    "nome_municipio": "Coronel Ezequiel",
+    "ano": 2025,
+    "populacao_estimada": 5233,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402907",
+    "nome_municipio": "Coronel João Pessoa",
+    "ano": 2021,
+    "populacao_estimada": 4918,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402907",
+    "nome_municipio": "Coronel João Pessoa",
+    "ano": 2024,
+    "populacao_estimada": 4315,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2402907",
+    "nome_municipio": "Coronel João Pessoa",
+    "ano": 2025,
+    "populacao_estimada": 4297,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403004",
+    "nome_municipio": "Cruzeta",
+    "ano": 2021,
+    "populacao_estimada": 7968,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403004",
+    "nome_municipio": "Cruzeta",
+    "ano": 2024,
+    "populacao_estimada": 8238,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403004",
+    "nome_municipio": "Cruzeta",
+    "ano": 2025,
+    "populacao_estimada": 8245,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403103",
+    "nome_municipio": "Currais Novos",
+    "ano": 2021,
+    "populacao_estimada": 45022,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403103",
+    "nome_municipio": "Currais Novos",
+    "ano": 2024,
+    "populacao_estimada": 42930,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403103",
+    "nome_municipio": "Currais Novos",
+    "ano": 2025,
+    "populacao_estimada": 42922,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403202",
+    "nome_municipio": "Doutor Severiano",
+    "ano": 2021,
+    "populacao_estimada": 7068,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403202",
+    "nome_municipio": "Doutor Severiano",
+    "ano": 2024,
+    "populacao_estimada": 7253,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403202",
+    "nome_municipio": "Doutor Severiano",
+    "ano": 2025,
+    "populacao_estimada": 7262,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403251",
+    "nome_municipio": "Parnamirim",
+    "ano": 2021,
+    "populacao_estimada": 272490,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403251",
+    "nome_municipio": "Parnamirim",
+    "ano": 2024,
+    "populacao_estimada": 269298,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403251",
+    "nome_municipio": "Parnamirim",
+    "ano": 2025,
+    "populacao_estimada": 271713,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403301",
+    "nome_municipio": "Encanto",
+    "ano": 2021,
+    "populacao_estimada": 5697,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403301",
+    "nome_municipio": "Encanto",
+    "ano": 2024,
+    "populacao_estimada": 6252,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403301",
+    "nome_municipio": "Encanto",
+    "ano": 2025,
+    "populacao_estimada": 6289,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403400",
+    "nome_municipio": "Equador",
+    "ano": 2021,
+    "populacao_estimada": 6064,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403400",
+    "nome_municipio": "Equador",
+    "ano": 2024,
+    "populacao_estimada": 5476,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403400",
+    "nome_municipio": "Equador",
+    "ano": 2025,
+    "populacao_estimada": 5461,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403509",
+    "nome_municipio": "Espírito Santo",
+    "ano": 2021,
+    "populacao_estimada": 10463,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403509",
+    "nome_municipio": "Espírito Santo",
+    "ano": 2024,
+    "populacao_estimada": 10936,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403509",
+    "nome_municipio": "Espírito Santo",
+    "ano": 2025,
+    "populacao_estimada": 10951,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403608",
+    "nome_municipio": "Extremoz",
+    "ano": 2021,
+    "populacao_estimada": 29282,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403608",
+    "nome_municipio": "Extremoz",
+    "ano": 2024,
+    "populacao_estimada": 66993,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403608",
+    "nome_municipio": "Extremoz",
+    "ano": 2025,
+    "populacao_estimada": 68584,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403707",
+    "nome_municipio": "Felipe Guerra",
+    "ano": 2021,
+    "populacao_estimada": 6009,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403707",
+    "nome_municipio": "Felipe Guerra",
+    "ano": 2024,
+    "populacao_estimada": 6458,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403707",
+    "nome_municipio": "Felipe Guerra",
+    "ano": 2025,
+    "populacao_estimada": 6472,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403756",
+    "nome_municipio": "Fernando Pedroza",
+    "ano": 2021,
+    "populacao_estimada": 3081,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403756",
+    "nome_municipio": "Fernando Pedroza",
+    "ano": 2024,
+    "populacao_estimada": 3029,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403756",
+    "nome_municipio": "Fernando Pedroza",
+    "ano": 2025,
+    "populacao_estimada": 3035,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403806",
+    "nome_municipio": "Florânia",
+    "ano": 2021,
+    "populacao_estimada": 9772,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403806",
+    "nome_municipio": "Florânia",
+    "ano": 2024,
+    "populacao_estimada": 10528,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403806",
+    "nome_municipio": "Florânia",
+    "ano": 2025,
+    "populacao_estimada": 10556,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403905",
+    "nome_municipio": "Francisco Dantas",
+    "ano": 2021,
+    "populacao_estimada": 2801,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403905",
+    "nome_municipio": "Francisco Dantas",
+    "ano": 2024,
+    "populacao_estimada": 2763,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2403905",
+    "nome_municipio": "Francisco Dantas",
+    "ano": 2025,
+    "populacao_estimada": 2758,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404002",
+    "nome_municipio": "Frutuoso Gomes",
+    "ano": 2021,
+    "populacao_estimada": 4015,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404002",
+    "nome_municipio": "Frutuoso Gomes",
+    "ano": 2024,
+    "populacao_estimada": 4231,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404002",
+    "nome_municipio": "Frutuoso Gomes",
+    "ano": 2025,
+    "populacao_estimada": 4230,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404101",
+    "nome_municipio": "Galinhos",
+    "ano": 2021,
+    "populacao_estimada": 2903,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404101",
+    "nome_municipio": "Galinhos",
+    "ano": 2024,
+    "populacao_estimada": 2160,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404101",
+    "nome_municipio": "Galinhos",
+    "ano": 2025,
+    "populacao_estimada": 2159,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404200",
+    "nome_municipio": "Goianinha",
+    "ano": 2021,
+    "populacao_estimada": 27004,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404200",
+    "nome_municipio": "Goianinha",
+    "ano": 2024,
+    "populacao_estimada": 28212,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404200",
+    "nome_municipio": "Goianinha",
+    "ano": 2025,
+    "populacao_estimada": 28422,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404309",
+    "nome_municipio": "Governador Dix-Sept Rosado",
+    "ano": 2021,
+    "populacao_estimada": 13115,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404309",
+    "nome_municipio": "Governador Dix-Sept Rosado",
+    "ano": 2024,
+    "populacao_estimada": 12239,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404309",
+    "nome_municipio": "Governador Dix-Sept Rosado",
+    "ano": 2025,
+    "populacao_estimada": 12231,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404408",
+    "nome_municipio": "Grossos",
+    "ano": 2021,
+    "populacao_estimada": 10541,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404408",
+    "nome_municipio": "Grossos",
+    "ano": 2024,
+    "populacao_estimada": 10251,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404408",
+    "nome_municipio": "Grossos",
+    "ano": 2025,
+    "populacao_estimada": 10281,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404507",
+    "nome_municipio": "Guamaré",
+    "ano": 2021,
+    "populacao_estimada": 16261,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404507",
+    "nome_municipio": "Guamaré",
+    "ano": 2024,
+    "populacao_estimada": 15947,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404507",
+    "nome_municipio": "Guamaré",
+    "ano": 2025,
+    "populacao_estimada": 16076,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404606",
+    "nome_municipio": "Ielmo Marinho",
+    "ano": 2021,
+    "populacao_estimada": 14033,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404606",
+    "nome_municipio": "Ielmo Marinho",
+    "ano": 2024,
+    "populacao_estimada": 11903,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404606",
+    "nome_municipio": "Ielmo Marinho",
+    "ano": 2025,
+    "populacao_estimada": 11889,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404705",
+    "nome_municipio": "Ipanguaçu",
+    "ano": 2021,
+    "populacao_estimada": 15759,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404705",
+    "nome_municipio": "Ipanguaçu",
+    "ano": 2024,
+    "populacao_estimada": 14539,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404705",
+    "nome_municipio": "Ipanguaçu",
+    "ano": 2025,
+    "populacao_estimada": 14560,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404804",
+    "nome_municipio": "Ipueira",
+    "ano": 2021,
+    "populacao_estimada": 2264,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404804",
+    "nome_municipio": "Ipueira",
+    "ano": 2024,
+    "populacao_estimada": 2090,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404804",
+    "nome_municipio": "Ipueira",
+    "ano": 2025,
+    "populacao_estimada": 2090,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404853",
+    "nome_municipio": "Itajá",
+    "ano": 2021,
+    "populacao_estimada": 7641,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404853",
+    "nome_municipio": "Itajá",
+    "ano": 2024,
+    "populacao_estimada": 7531,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404853",
+    "nome_municipio": "Itajá",
+    "ano": 2025,
+    "populacao_estimada": 7551,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404903",
+    "nome_municipio": "Itaú",
+    "ano": 2021,
+    "populacao_estimada": 5916,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404903",
+    "nome_municipio": "Itaú",
+    "ano": 2024,
+    "populacao_estimada": 5452,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2404903",
+    "nome_municipio": "Itaú",
+    "ano": 2025,
+    "populacao_estimada": 5447,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405009",
+    "nome_municipio": "Jaçanã",
+    "ano": 2021,
+    "populacao_estimada": 9341,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405009",
+    "nome_municipio": "Jaçanã",
+    "ano": 2024,
+    "populacao_estimada": 8051,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405009",
+    "nome_municipio": "Jaçanã",
+    "ano": 2025,
+    "populacao_estimada": 8053,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405108",
+    "nome_municipio": "Jandaíra",
+    "ano": 2021,
+    "populacao_estimada": 6907,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405108",
+    "nome_municipio": "Jandaíra",
+    "ano": 2024,
+    "populacao_estimada": 6748,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405108",
+    "nome_municipio": "Jandaíra",
+    "ano": 2025,
+    "populacao_estimada": 6752,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405207",
+    "nome_municipio": "Janduís",
+    "ano": 2021,
+    "populacao_estimada": 5228,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405207",
+    "nome_municipio": "Janduís",
+    "ano": 2024,
+    "populacao_estimada": 4834,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405207",
+    "nome_municipio": "Janduís",
+    "ano": 2025,
+    "populacao_estimada": 4813,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405306",
+    "nome_municipio": "Januário Cicco",
+    "ano": 2021,
+    "populacao_estimada": 10367,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405306",
+    "nome_municipio": "Januário Cicco",
+    "ano": 2024,
+    "populacao_estimada": 8836,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405306",
+    "nome_municipio": "Januário Cicco",
+    "ano": 2025,
+    "populacao_estimada": 8843,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405405",
+    "nome_municipio": "Japi",
+    "ano": 2021,
+    "populacao_estimada": 4935,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405405",
+    "nome_municipio": "Japi",
+    "ano": 2024,
+    "populacao_estimada": 5231,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405405",
+    "nome_municipio": "Japi",
+    "ano": 2025,
+    "populacao_estimada": 5219,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405504",
+    "nome_municipio": "Jardim de Angicos",
+    "ano": 2021,
+    "populacao_estimada": 2600,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405504",
+    "nome_municipio": "Jardim de Angicos",
+    "ano": 2024,
+    "populacao_estimada": 2493,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405504",
+    "nome_municipio": "Jardim de Angicos",
+    "ano": 2025,
+    "populacao_estimada": 2488,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405603",
+    "nome_municipio": "Jardim de Piranhas",
+    "ano": 2021,
+    "populacao_estimada": 15044,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405603",
+    "nome_municipio": "Jardim de Piranhas",
+    "ano": 2024,
+    "populacao_estimada": 14416,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405603",
+    "nome_municipio": "Jardim de Piranhas",
+    "ano": 2025,
+    "populacao_estimada": 14446,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405702",
+    "nome_municipio": "Jardim do Seridó",
+    "ano": 2021,
+    "populacao_estimada": 12397,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405702",
+    "nome_municipio": "Jardim do Seridó",
+    "ano": 2024,
+    "populacao_estimada": 11952,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405702",
+    "nome_municipio": "Jardim do Seridó",
+    "ano": 2025,
+    "populacao_estimada": 11942,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405801",
+    "nome_municipio": "João Câmara",
+    "ano": 2021,
+    "populacao_estimada": 35360,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405801",
+    "nome_municipio": "João Câmara",
+    "ano": 2024,
+    "populacao_estimada": 34768,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405801",
+    "nome_municipio": "João Câmara",
+    "ano": 2025,
+    "populacao_estimada": 34849,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405900",
+    "nome_municipio": "João Dias",
+    "ano": 2021,
+    "populacao_estimada": 2653,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405900",
+    "nome_municipio": "João Dias",
+    "ano": 2024,
+    "populacao_estimada": 2093,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2405900",
+    "nome_municipio": "João Dias",
+    "ano": 2025,
+    "populacao_estimada": 2073,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406007",
+    "nome_municipio": "José da Penha",
+    "ano": 2021,
+    "populacao_estimada": 5941,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406007",
+    "nome_municipio": "José da Penha",
+    "ano": 2024,
+    "populacao_estimada": 5964,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406007",
+    "nome_municipio": "José da Penha",
+    "ano": 2025,
+    "populacao_estimada": 5966,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406106",
+    "nome_municipio": "Jucurutu",
+    "ano": 2021,
+    "populacao_estimada": 18335,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406106",
+    "nome_municipio": "Jucurutu",
+    "ano": 2024,
+    "populacao_estimada": 18286,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406106",
+    "nome_municipio": "Jucurutu",
+    "ano": 2025,
+    "populacao_estimada": 18304,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406155",
+    "nome_municipio": "Jundiá",
+    "ano": 2021,
+    "populacao_estimada": 3945,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406155",
+    "nome_municipio": "Jundiá",
+    "ano": 2024,
+    "populacao_estimada": 3859,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406155",
+    "nome_municipio": "Jundiá",
+    "ano": 2025,
+    "populacao_estimada": 3868,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406205",
+    "nome_municipio": "Lagoa d'Anta",
+    "ano": 2021,
+    "populacao_estimada": 6851,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406205",
+    "nome_municipio": "Lagoa d'Anta",
+    "ano": 2024,
+    "populacao_estimada": 6733,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406205",
+    "nome_municipio": "Lagoa d'Anta",
+    "ano": 2025,
+    "populacao_estimada": 6756,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406304",
+    "nome_municipio": "Lagoa de Pedras",
+    "ano": 2021,
+    "populacao_estimada": 7624,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406304",
+    "nome_municipio": "Lagoa de Pedras",
+    "ano": 2024,
+    "populacao_estimada": 7577,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406304",
+    "nome_municipio": "Lagoa de Pedras",
+    "ano": 2025,
+    "populacao_estimada": 7597,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406403",
+    "nome_municipio": "Lagoa de Velhos",
+    "ano": 2021,
+    "populacao_estimada": 2732,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406403",
+    "nome_municipio": "Lagoa de Velhos",
+    "ano": 2024,
+    "populacao_estimada": 2633,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406403",
+    "nome_municipio": "Lagoa de Velhos",
+    "ano": 2025,
+    "populacao_estimada": 2631,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406502",
+    "nome_municipio": "Lagoa Nova",
+    "ano": 2021,
+    "populacao_estimada": 15880,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406502",
+    "nome_municipio": "Lagoa Nova",
+    "ano": 2024,
+    "populacao_estimada": 16126,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406502",
+    "nome_municipio": "Lagoa Nova",
+    "ano": 2025,
+    "populacao_estimada": 16203,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406601",
+    "nome_municipio": "Lagoa Salgada",
+    "ano": 2021,
+    "populacao_estimada": 8348,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406601",
+    "nome_municipio": "Lagoa Salgada",
+    "ano": 2024,
+    "populacao_estimada": 8619,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406601",
+    "nome_municipio": "Lagoa Salgada",
+    "ano": 2025,
+    "populacao_estimada": 8657,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406700",
+    "nome_municipio": "Lajes",
+    "ano": 2021,
+    "populacao_estimada": 11410,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406700",
+    "nome_municipio": "Lajes",
+    "ano": 2024,
+    "populacao_estimada": 10108,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406700",
+    "nome_municipio": "Lajes",
+    "ano": 2025,
+    "populacao_estimada": 10094,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406809",
+    "nome_municipio": "Lajes Pintadas",
+    "ano": 2021,
+    "populacao_estimada": 4768,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406809",
+    "nome_municipio": "Lajes Pintadas",
+    "ano": 2024,
+    "populacao_estimada": 4939,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406809",
+    "nome_municipio": "Lajes Pintadas",
+    "ano": 2025,
+    "populacao_estimada": 4950,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406908",
+    "nome_municipio": "Lucrécia",
+    "ano": 2021,
+    "populacao_estimada": 4053,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406908",
+    "nome_municipio": "Lucrécia",
+    "ano": 2024,
+    "populacao_estimada": 3579,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2406908",
+    "nome_municipio": "Lucrécia",
+    "ano": 2025,
+    "populacao_estimada": 3576,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407005",
+    "nome_municipio": "Luís Gomes",
+    "ano": 2021,
+    "populacao_estimada": 10175,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407005",
+    "nome_municipio": "Luís Gomes",
+    "ano": 2024,
+    "populacao_estimada": 9286,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407005",
+    "nome_municipio": "Luís Gomes",
+    "ano": 2025,
+    "populacao_estimada": 9271,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407104",
+    "nome_municipio": "Macaíba",
+    "ano": 2021,
+    "populacao_estimada": 82828,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407104",
+    "nome_municipio": "Macaíba",
+    "ano": 2024,
+    "populacao_estimada": 86433,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407104",
+    "nome_municipio": "Macaíba",
+    "ano": 2025,
+    "populacao_estimada": 87056,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407203",
+    "nome_municipio": "Macau",
+    "ano": 2021,
+    "populacao_estimada": 32260,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407203",
+    "nome_municipio": "Macau",
+    "ano": 2024,
+    "populacao_estimada": 28384,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407203",
+    "nome_municipio": "Macau",
+    "ano": 2025,
+    "populacao_estimada": 28350,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407252",
+    "nome_municipio": "Major Sales",
+    "ano": 2021,
+    "populacao_estimada": 4102,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407252",
+    "nome_municipio": "Major Sales",
+    "ano": 2024,
+    "populacao_estimada": 4067,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407252",
+    "nome_municipio": "Major Sales",
+    "ano": 2025,
+    "populacao_estimada": 4086,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407302",
+    "nome_municipio": "Marcelino Vieira",
+    "ano": 2021,
+    "populacao_estimada": 8325,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407302",
+    "nome_municipio": "Marcelino Vieira",
+    "ano": 2024,
+    "populacao_estimada": 8092,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407302",
+    "nome_municipio": "Marcelino Vieira",
+    "ano": 2025,
+    "populacao_estimada": 8083,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407401",
+    "nome_municipio": "Martins",
+    "ano": 2021,
+    "populacao_estimada": 8790,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407401",
+    "nome_municipio": "Martins",
+    "ano": 2024,
+    "populacao_estimada": 8411,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407401",
+    "nome_municipio": "Martins",
+    "ano": 2025,
+    "populacao_estimada": 8415,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407500",
+    "nome_municipio": "Maxaranguape",
+    "ano": 2021,
+    "populacao_estimada": 12714,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407500",
+    "nome_municipio": "Maxaranguape",
+    "ano": 2024,
+    "populacao_estimada": 10534,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407500",
+    "nome_municipio": "Maxaranguape",
+    "ano": 2025,
+    "populacao_estimada": 10534,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407609",
+    "nome_municipio": "Messias Targino",
+    "ano": 2021,
+    "populacao_estimada": 4665,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407609",
+    "nome_municipio": "Messias Targino",
+    "ano": 2024,
+    "populacao_estimada": 4404,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407609",
+    "nome_municipio": "Messias Targino",
+    "ano": 2025,
+    "populacao_estimada": 4410,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407708",
+    "nome_municipio": "Montanhas",
+    "ano": 2021,
+    "populacao_estimada": 11166,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407708",
+    "nome_municipio": "Montanhas",
+    "ano": 2024,
+    "populacao_estimada": 11774,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407708",
+    "nome_municipio": "Montanhas",
+    "ano": 2025,
+    "populacao_estimada": 11785,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407807",
+    "nome_municipio": "Monte Alegre",
+    "ano": 2021,
+    "populacao_estimada": 22698,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407807",
+    "nome_municipio": "Monte Alegre",
+    "ano": 2024,
+    "populacao_estimada": 23843,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407807",
+    "nome_municipio": "Monte Alegre",
+    "ano": 2025,
+    "populacao_estimada": 23953,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407906",
+    "nome_municipio": "Monte das Gameleiras",
+    "ano": 2021,
+    "populacao_estimada": 2063,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407906",
+    "nome_municipio": "Monte das Gameleiras",
+    "ano": 2024,
+    "populacao_estimada": 2343,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2407906",
+    "nome_municipio": "Monte das Gameleiras",
+    "ano": 2025,
+    "populacao_estimada": 2345,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408003",
+    "nome_municipio": "Mossoró",
+    "ano": 2021,
+    "populacao_estimada": 303792,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408003",
+    "nome_municipio": "Mossoró",
+    "ano": 2024,
+    "populacao_estimada": 278034,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408003",
+    "nome_municipio": "Mossoró",
+    "ano": 2025,
+    "populacao_estimada": 278587,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408102",
+    "nome_municipio": "Natal",
+    "ano": 2021,
+    "populacao_estimada": 896708,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408102",
+    "nome_municipio": "Natal",
+    "ano": 2024,
+    "populacao_estimada": 785368,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408102",
+    "nome_municipio": "Natal",
+    "ano": 2025,
+    "populacao_estimada": 784249,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408201",
+    "nome_municipio": "Nísia Floresta",
+    "ano": 2021,
+    "populacao_estimada": 28266,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408201",
+    "nome_municipio": "Nísia Floresta",
+    "ano": 2024,
+    "populacao_estimada": 33949,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408201",
+    "nome_municipio": "Nísia Floresta",
+    "ano": 2025,
+    "populacao_estimada": 34325,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408300",
+    "nome_municipio": "Nova Cruz",
+    "ano": 2021,
+    "populacao_estimada": 37554,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408300",
+    "nome_municipio": "Nova Cruz",
+    "ano": 2024,
+    "populacao_estimada": 35534,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408300",
+    "nome_municipio": "Nova Cruz",
+    "ano": 2025,
+    "populacao_estimada": 35523,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408409",
+    "nome_municipio": "Olho d'Água do Borges",
+    "ano": 2021,
+    "populacao_estimada": 4231,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408409",
+    "nome_municipio": "Olho d'Água do Borges",
+    "ano": 2024,
+    "populacao_estimada": 3748,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408409",
+    "nome_municipio": "Olho d'Água do Borges",
+    "ano": 2025,
+    "populacao_estimada": 3736,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408508",
+    "nome_municipio": "Ouro Branco",
+    "ano": 2021,
+    "populacao_estimada": 4813,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408508",
+    "nome_municipio": "Ouro Branco",
+    "ano": 2024,
+    "populacao_estimada": 5071,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408508",
+    "nome_municipio": "Ouro Branco",
+    "ano": 2025,
+    "populacao_estimada": 5084,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408607",
+    "nome_municipio": "Paraná",
+    "ano": 2021,
+    "populacao_estimada": 4298,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408607",
+    "nome_municipio": "Paraná",
+    "ano": 2024,
+    "populacao_estimada": 4046,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408607",
+    "nome_municipio": "Paraná",
+    "ano": 2025,
+    "populacao_estimada": 4048,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408706",
+    "nome_municipio": "Paraú",
+    "ano": 2021,
+    "populacao_estimada": 3732,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408706",
+    "nome_municipio": "Paraú",
+    "ano": 2024,
+    "populacao_estimada": 3659,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408706",
+    "nome_municipio": "Paraú",
+    "ano": 2025,
+    "populacao_estimada": 3650,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408805",
+    "nome_municipio": "Parazinho",
+    "ano": 2021,
+    "populacao_estimada": 5307,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408805",
+    "nome_municipio": "Parazinho",
+    "ano": 2024,
+    "populacao_estimada": 4940,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408805",
+    "nome_municipio": "Parazinho",
+    "ano": 2025,
+    "populacao_estimada": 4945,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408904",
+    "nome_municipio": "Parelhas",
+    "ano": 2021,
+    "populacao_estimada": 21611,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408904",
+    "nome_municipio": "Parelhas",
+    "ano": 2024,
+    "populacao_estimada": 22179,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408904",
+    "nome_municipio": "Parelhas",
+    "ano": 2025,
+    "populacao_estimada": 22242,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408953",
+    "nome_municipio": "Rio do Fogo",
+    "ano": 2021,
+    "populacao_estimada": 10961,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408953",
+    "nome_municipio": "Rio do Fogo",
+    "ano": 2024,
+    "populacao_estimada": 10672,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2408953",
+    "nome_municipio": "Rio do Fogo",
+    "ano": 2025,
+    "populacao_estimada": 10692,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409100",
+    "nome_municipio": "Passa e Fica",
+    "ano": 2021,
+    "populacao_estimada": 13667,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409100",
+    "nome_municipio": "Passa e Fica",
+    "ano": 2024,
+    "populacao_estimada": 11406,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409100",
+    "nome_municipio": "Passa e Fica",
+    "ano": 2025,
+    "populacao_estimada": 11407,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409209",
+    "nome_municipio": "Passagem",
+    "ano": 2021,
+    "populacao_estimada": 3114,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409209",
+    "nome_municipio": "Passagem",
+    "ano": 2024,
+    "populacao_estimada": 3222,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409209",
+    "nome_municipio": "Passagem",
+    "ano": 2025,
+    "populacao_estimada": 3233,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409308",
+    "nome_municipio": "Patu",
+    "ano": 2021,
+    "populacao_estimada": 12861,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409308",
+    "nome_municipio": "Patu",
+    "ano": 2024,
+    "populacao_estimada": 11245,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409308",
+    "nome_municipio": "Patu",
+    "ano": 2025,
+    "populacao_estimada": 11215,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409332",
+    "nome_municipio": "Santa Maria",
+    "ano": 2021,
+    "populacao_estimada": 5689,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409332",
+    "nome_municipio": "Santa Maria",
+    "ano": 2024,
+    "populacao_estimada": 4992,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409332",
+    "nome_municipio": "Santa Maria",
+    "ano": 2025,
+    "populacao_estimada": 5000,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409407",
+    "nome_municipio": "Pau dos Ferros",
+    "ano": 2021,
+    "populacao_estimada": 30802,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409407",
+    "nome_municipio": "Pau dos Ferros",
+    "ano": 2024,
+    "populacao_estimada": 31975,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409407",
+    "nome_municipio": "Pau dos Ferros",
+    "ano": 2025,
+    "populacao_estimada": 32123,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409506",
+    "nome_municipio": "Pedra Grande",
+    "ano": 2021,
+    "populacao_estimada": 3163,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409506",
+    "nome_municipio": "Pedra Grande",
+    "ano": 2024,
+    "populacao_estimada": 3729,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409506",
+    "nome_municipio": "Pedra Grande",
+    "ano": 2025,
+    "populacao_estimada": 3736,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409605",
+    "nome_municipio": "Pedra Preta",
+    "ano": 2021,
+    "populacao_estimada": 2419,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409605",
+    "nome_municipio": "Pedra Preta",
+    "ano": 2024,
+    "populacao_estimada": 2499,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409605",
+    "nome_municipio": "Pedra Preta",
+    "ano": 2025,
+    "populacao_estimada": 2495,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409704",
+    "nome_municipio": "Pedro Avelino",
+    "ano": 2021,
+    "populacao_estimada": 6591,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409704",
+    "nome_municipio": "Pedro Avelino",
+    "ano": 2024,
+    "populacao_estimada": 6345,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409704",
+    "nome_municipio": "Pedro Avelino",
+    "ano": 2025,
+    "populacao_estimada": 6312,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409803",
+    "nome_municipio": "Pedro Velho",
+    "ano": 2021,
+    "populacao_estimada": 14881,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409803",
+    "nome_municipio": "Pedro Velho",
+    "ano": 2024,
+    "populacao_estimada": 14197,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409803",
+    "nome_municipio": "Pedro Velho",
+    "ano": 2025,
+    "populacao_estimada": 14197,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409902",
+    "nome_municipio": "Pendências",
+    "ano": 2021,
+    "populacao_estimada": 15411,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409902",
+    "nome_municipio": "Pendências",
+    "ano": 2024,
+    "populacao_estimada": 12536,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2409902",
+    "nome_municipio": "Pendências",
+    "ano": 2025,
+    "populacao_estimada": 12499,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410009",
+    "nome_municipio": "Pilões",
+    "ano": 2021,
+    "populacao_estimada": 3900,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410009",
+    "nome_municipio": "Pilões",
+    "ano": 2024,
+    "populacao_estimada": 3010,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410009",
+    "nome_municipio": "Pilões",
+    "ano": 2025,
+    "populacao_estimada": 2992,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410108",
+    "nome_municipio": "Poço Branco",
+    "ano": 2021,
+    "populacao_estimada": 15646,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410108",
+    "nome_municipio": "Poço Branco",
+    "ano": 2024,
+    "populacao_estimada": 12619,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410108",
+    "nome_municipio": "Poço Branco",
+    "ano": 2025,
+    "populacao_estimada": 12565,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410207",
+    "nome_municipio": "Portalegre",
+    "ano": 2021,
+    "populacao_estimada": 7944,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410207",
+    "nome_municipio": "Portalegre",
+    "ano": 2024,
+    "populacao_estimada": 7842,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410207",
+    "nome_municipio": "Portalegre",
+    "ano": 2025,
+    "populacao_estimada": 7859,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410256",
+    "nome_municipio": "Porto do Mangue",
+    "ano": 2021,
+    "populacao_estimada": 6605,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410256",
+    "nome_municipio": "Porto do Mangue",
+    "ano": 2024,
+    "populacao_estimada": 5357,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410256",
+    "nome_municipio": "Porto do Mangue",
+    "ano": 2025,
+    "populacao_estimada": 5351,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410306",
+    "nome_municipio": "Serra Caiada",
+    "ano": 2021,
+    "populacao_estimada": 10646,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410306",
+    "nome_municipio": "Serra Caiada",
+    "ano": 2024,
+    "populacao_estimada": 11146,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410306",
+    "nome_municipio": "Serra Caiada",
+    "ano": 2025,
+    "populacao_estimada": 11203,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410405",
+    "nome_municipio": "Pureza",
+    "ano": 2021,
+    "populacao_estimada": 9825,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410405",
+    "nome_municipio": "Pureza",
+    "ano": 2024,
+    "populacao_estimada": 9707,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410405",
+    "nome_municipio": "Pureza",
+    "ano": 2025,
+    "populacao_estimada": 9752,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410504",
+    "nome_municipio": "Rafael Fernandes",
+    "ano": 2021,
+    "populacao_estimada": 5158,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410504",
+    "nome_municipio": "Rafael Fernandes",
+    "ano": 2024,
+    "populacao_estimada": 5647,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410504",
+    "nome_municipio": "Rafael Fernandes",
+    "ano": 2025,
+    "populacao_estimada": 5682,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410603",
+    "nome_municipio": "Rafael Godeiro",
+    "ano": 2021,
+    "populacao_estimada": 3214,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410603",
+    "nome_municipio": "Rafael Godeiro",
+    "ano": 2024,
+    "populacao_estimada": 3008,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410603",
+    "nome_municipio": "Rafael Godeiro",
+    "ano": 2025,
+    "populacao_estimada": 3005,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410702",
+    "nome_municipio": "Riacho da Cruz",
+    "ano": 2021,
+    "populacao_estimada": 3648,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410702",
+    "nome_municipio": "Riacho da Cruz",
+    "ano": 2024,
+    "populacao_estimada": 2741,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410702",
+    "nome_municipio": "Riacho da Cruz",
+    "ano": 2025,
+    "populacao_estimada": 2724,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410801",
+    "nome_municipio": "Riacho de Santana",
+    "ano": 2021,
+    "populacao_estimada": 4194,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410801",
+    "nome_municipio": "Riacho de Santana",
+    "ano": 2024,
+    "populacao_estimada": 4243,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410801",
+    "nome_municipio": "Riacho de Santana",
+    "ano": 2025,
+    "populacao_estimada": 4245,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410900",
+    "nome_municipio": "Riachuelo",
+    "ano": 2021,
+    "populacao_estimada": 8310,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410900",
+    "nome_municipio": "Riachuelo",
+    "ano": 2024,
+    "populacao_estimada": 7627,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2410900",
+    "nome_municipio": "Riachuelo",
+    "ano": 2025,
+    "populacao_estimada": 7646,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411007",
+    "nome_municipio": "Rodolfo Fernandes",
+    "ano": 2021,
+    "populacao_estimada": 4457,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411007",
+    "nome_municipio": "Rodolfo Fernandes",
+    "ano": 2024,
+    "populacao_estimada": 4349,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411007",
+    "nome_municipio": "Rodolfo Fernandes",
+    "ano": 2025,
+    "populacao_estimada": 4345,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411056",
+    "nome_municipio": "Tibau",
+    "ano": 2021,
+    "populacao_estimada": 4173,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411056",
+    "nome_municipio": "Tibau",
+    "ano": 2024,
+    "populacao_estimada": 5674,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411056",
+    "nome_municipio": "Tibau",
+    "ano": 2025,
+    "populacao_estimada": 5748,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411106",
+    "nome_municipio": "Ruy Barbosa",
+    "ano": 2021,
+    "populacao_estimada": 3584,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411106",
+    "nome_municipio": "Ruy Barbosa",
+    "ano": 2024,
+    "populacao_estimada": 3266,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411106",
+    "nome_municipio": "Ruy Barbosa",
+    "ano": 2025,
+    "populacao_estimada": 3253,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411205",
+    "nome_municipio": "Santa Cruz",
+    "ano": 2021,
+    "populacao_estimada": 40295,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411205",
+    "nome_municipio": "Santa Cruz",
+    "ano": 2024,
+    "populacao_estimada": 38996,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411205",
+    "nome_municipio": "Santa Cruz",
+    "ano": 2025,
+    "populacao_estimada": 39101,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411403",
+    "nome_municipio": "Santana do Matos",
+    "ano": 2021,
+    "populacao_estimada": 11808,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411403",
+    "nome_municipio": "Santana do Matos",
+    "ano": 2024,
+    "populacao_estimada": 12746,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411403",
+    "nome_municipio": "Santana do Matos",
+    "ano": 2025,
+    "populacao_estimada": 12722,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411429",
+    "nome_municipio": "Santana do Seridó",
+    "ano": 2021,
+    "populacao_estimada": 2699,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411429",
+    "nome_municipio": "Santana do Seridó",
+    "ano": 2024,
+    "populacao_estimada": 2787,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411429",
+    "nome_municipio": "Santana do Seridó",
+    "ano": 2025,
+    "populacao_estimada": 2796,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411502",
+    "nome_municipio": "Santo Antônio",
+    "ano": 2021,
+    "populacao_estimada": 24422,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411502",
+    "nome_municipio": "Santo Antônio",
+    "ano": 2024,
+    "populacao_estimada": 22779,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411502",
+    "nome_municipio": "Santo Antônio",
+    "ano": 2025,
+    "populacao_estimada": 22793,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411601",
+    "nome_municipio": "São Bento do Norte",
+    "ano": 2021,
+    "populacao_estimada": 2687,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411601",
+    "nome_municipio": "São Bento do Norte",
+    "ano": 2024,
+    "populacao_estimada": 3426,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411601",
+    "nome_municipio": "São Bento do Norte",
+    "ano": 2025,
+    "populacao_estimada": 3442,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411700",
+    "nome_municipio": "São Bento do Trairí",
+    "ano": 2021,
+    "populacao_estimada": 4541,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411700",
+    "nome_municipio": "São Bento do Trairí",
+    "ano": 2024,
+    "populacao_estimada": 3892,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411700",
+    "nome_municipio": "São Bento do Trairí",
+    "ano": 2025,
+    "populacao_estimada": 3890,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411809",
+    "nome_municipio": "São Fernando",
+    "ano": 2021,
+    "populacao_estimada": 3606,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411809",
+    "nome_municipio": "São Fernando",
+    "ano": 2024,
+    "populacao_estimada": 3600,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411809",
+    "nome_municipio": "São Fernando",
+    "ano": 2025,
+    "populacao_estimada": 3606,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411908",
+    "nome_municipio": "São Francisco do Oeste",
+    "ano": 2021,
+    "populacao_estimada": 4281,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411908",
+    "nome_municipio": "São Francisco do Oeste",
+    "ano": 2024,
+    "populacao_estimada": 4304,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2411908",
+    "nome_municipio": "São Francisco do Oeste",
+    "ano": 2025,
+    "populacao_estimada": 4319,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412005",
+    "nome_municipio": "São Gonçalo do Amarante",
+    "ano": 2021,
+    "populacao_estimada": 104919,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412005",
+    "nome_municipio": "São Gonçalo do Amarante",
+    "ano": 2024,
+    "populacao_estimada": 123207,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412005",
+    "nome_municipio": "São Gonçalo do Amarante",
+    "ano": 2025,
+    "populacao_estimada": 124495,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412104",
+    "nome_municipio": "São João do Sabugi",
+    "ano": 2021,
+    "populacao_estimada": 6221,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412104",
+    "nome_municipio": "São João do Sabugi",
+    "ano": 2024,
+    "populacao_estimada": 6130,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412104",
+    "nome_municipio": "São João do Sabugi",
+    "ano": 2025,
+    "populacao_estimada": 6136,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412203",
+    "nome_municipio": "São José de Mipibu",
+    "ano": 2021,
+    "populacao_estimada": 44566,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412203",
+    "nome_municipio": "São José de Mipibu",
+    "ano": 2024,
+    "populacao_estimada": 49693,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412203",
+    "nome_municipio": "São José de Mipibu",
+    "ano": 2025,
+    "populacao_estimada": 50053,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412302",
+    "nome_municipio": "São José do Campestre",
+    "ano": 2021,
+    "populacao_estimada": 12901,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412302",
+    "nome_municipio": "São José do Campestre",
+    "ano": 2024,
+    "populacao_estimada": 11340,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412302",
+    "nome_municipio": "São José do Campestre",
+    "ano": 2025,
+    "populacao_estimada": 11298,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412401",
+    "nome_municipio": "São José do Seridó",
+    "ano": 2021,
+    "populacao_estimada": 4696,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412401",
+    "nome_municipio": "São José do Seridó",
+    "ano": 2024,
+    "populacao_estimada": 4716,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412401",
+    "nome_municipio": "São José do Seridó",
+    "ano": 2025,
+    "populacao_estimada": 4733,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412500",
+    "nome_municipio": "São Miguel",
+    "ano": 2021,
+    "populacao_estimada": 23789,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412500",
+    "nome_municipio": "São Miguel",
+    "ano": 2024,
+    "populacao_estimada": 24329,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412500",
+    "nome_municipio": "São Miguel",
+    "ano": 2025,
+    "populacao_estimada": 24422,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412559",
+    "nome_municipio": "São Miguel do Gostoso",
+    "ano": 2021,
+    "populacao_estimada": 10441,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412559",
+    "nome_municipio": "São Miguel do Gostoso",
+    "ano": 2024,
+    "populacao_estimada": 10590,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412559",
+    "nome_municipio": "São Miguel do Gostoso",
+    "ano": 2025,
+    "populacao_estimada": 10636,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412609",
+    "nome_municipio": "São Paulo do Potengi",
+    "ano": 2021,
+    "populacao_estimada": 17858,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412609",
+    "nome_municipio": "São Paulo do Potengi",
+    "ano": 2024,
+    "populacao_estimada": 17320,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412609",
+    "nome_municipio": "São Paulo do Potengi",
+    "ano": 2025,
+    "populacao_estimada": 17371,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412708",
+    "nome_municipio": "São Pedro",
+    "ano": 2021,
+    "populacao_estimada": 5889,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412708",
+    "nome_municipio": "São Pedro",
+    "ano": 2024,
+    "populacao_estimada": 5905,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412708",
+    "nome_municipio": "São Pedro",
+    "ano": 2025,
+    "populacao_estimada": 5890,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412807",
+    "nome_municipio": "São Rafael",
+    "ano": 2021,
+    "populacao_estimada": 8183,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412807",
+    "nome_municipio": "São Rafael",
+    "ano": 2024,
+    "populacao_estimada": 7899,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412807",
+    "nome_municipio": "São Rafael",
+    "ano": 2025,
+    "populacao_estimada": 7889,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412906",
+    "nome_municipio": "São Tomé",
+    "ano": 2021,
+    "populacao_estimada": 11051,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412906",
+    "nome_municipio": "São Tomé",
+    "ano": 2024,
+    "populacao_estimada": 10188,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2412906",
+    "nome_municipio": "São Tomé",
+    "ano": 2025,
+    "populacao_estimada": 10161,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413003",
+    "nome_municipio": "São Vicente",
+    "ano": 2021,
+    "populacao_estimada": 6476,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413003",
+    "nome_municipio": "São Vicente",
+    "ano": 2024,
+    "populacao_estimada": 6514,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413003",
+    "nome_municipio": "São Vicente",
+    "ano": 2025,
+    "populacao_estimada": 6530,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413102",
+    "nome_municipio": "Senador Elói de Souza",
+    "ano": 2021,
+    "populacao_estimada": 6167,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413102",
+    "nome_municipio": "Senador Elói de Souza",
+    "ano": 2024,
+    "populacao_estimada": 6007,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413102",
+    "nome_municipio": "Senador Elói de Souza",
+    "ano": 2025,
+    "populacao_estimada": 6027,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413201",
+    "nome_municipio": "Senador Georgino Avelino",
+    "ano": 2021,
+    "populacao_estimada": 4527,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413201",
+    "nome_municipio": "Senador Georgino Avelino",
+    "ano": 2024,
+    "populacao_estimada": 4193,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413201",
+    "nome_municipio": "Senador Georgino Avelino",
+    "ano": 2025,
+    "populacao_estimada": 4202,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413300",
+    "nome_municipio": "Serra de São Bento",
+    "ano": 2021,
+    "populacao_estimada": 5739,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413300",
+    "nome_municipio": "Serra de São Bento",
+    "ano": 2024,
+    "populacao_estimada": 5864,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413300",
+    "nome_municipio": "Serra de São Bento",
+    "ano": 2025,
+    "populacao_estimada": 5866,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413359",
+    "nome_municipio": "Serra do Mel",
+    "ano": 2021,
+    "populacao_estimada": 12225,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413359",
+    "nome_municipio": "Serra do Mel",
+    "ano": 2024,
+    "populacao_estimada": 13694,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413359",
+    "nome_municipio": "Serra do Mel",
+    "ano": 2025,
+    "populacao_estimada": 13819,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413409",
+    "nome_municipio": "Serra Negra do Norte",
+    "ano": 2021,
+    "populacao_estimada": 8105,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413409",
+    "nome_municipio": "Serra Negra do Norte",
+    "ano": 2024,
+    "populacao_estimada": 7801,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413409",
+    "nome_municipio": "Serra Negra do Norte",
+    "ano": 2025,
+    "populacao_estimada": 7800,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413508",
+    "nome_municipio": "Serrinha",
+    "ano": 2021,
+    "populacao_estimada": 6128,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413508",
+    "nome_municipio": "Serrinha",
+    "ano": 2024,
+    "populacao_estimada": 6609,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413508",
+    "nome_municipio": "Serrinha",
+    "ano": 2025,
+    "populacao_estimada": 6608,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413557",
+    "nome_municipio": "Serrinha dos Pintos",
+    "ano": 2021,
+    "populacao_estimada": 4832,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413557",
+    "nome_municipio": "Serrinha dos Pintos",
+    "ano": 2024,
+    "populacao_estimada": 4802,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413557",
+    "nome_municipio": "Serrinha dos Pintos",
+    "ano": 2025,
+    "populacao_estimada": 4810,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413607",
+    "nome_municipio": "Severiano Melo",
+    "ano": 2021,
+    "populacao_estimada": 1743,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413607",
+    "nome_municipio": "Severiano Melo",
+    "ano": 2024,
+    "populacao_estimada": 5623,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413607",
+    "nome_municipio": "Severiano Melo",
+    "ano": 2025,
+    "populacao_estimada": 5616,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413706",
+    "nome_municipio": "Sítio Novo",
+    "ano": 2021,
+    "populacao_estimada": 5600,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413706",
+    "nome_municipio": "Sítio Novo",
+    "ano": 2024,
+    "populacao_estimada": 4758,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413706",
+    "nome_municipio": "Sítio Novo",
+    "ano": 2025,
+    "populacao_estimada": 4746,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413805",
+    "nome_municipio": "Taboleiro Grande",
+    "ano": 2021,
+    "populacao_estimada": 2606,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413805",
+    "nome_municipio": "Taboleiro Grande",
+    "ano": 2024,
+    "populacao_estimada": 2406,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413805",
+    "nome_municipio": "Taboleiro Grande",
+    "ano": 2025,
+    "populacao_estimada": 2409,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413904",
+    "nome_municipio": "Taipu",
+    "ano": 2021,
+    "populacao_estimada": 12314,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413904",
+    "nome_municipio": "Taipu",
+    "ano": 2024,
+    "populacao_estimada": 11716,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2413904",
+    "nome_municipio": "Taipu",
+    "ano": 2025,
+    "populacao_estimada": 11708,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414001",
+    "nome_municipio": "Tangará",
+    "ano": 2021,
+    "populacao_estimada": 16008,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414001",
+    "nome_municipio": "Tangará",
+    "ano": 2024,
+    "populacao_estimada": 13602,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414001",
+    "nome_municipio": "Tangará",
+    "ano": 2025,
+    "populacao_estimada": 13583,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414100",
+    "nome_municipio": "Tenente Ananias",
+    "ano": 2021,
+    "populacao_estimada": 10923,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414100",
+    "nome_municipio": "Tenente Ananias",
+    "ano": 2024,
+    "populacao_estimada": 10587,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414100",
+    "nome_municipio": "Tenente Ananias",
+    "ano": 2025,
+    "populacao_estimada": 10610,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414159",
+    "nome_municipio": "Tenente Laurentino Cruz",
+    "ano": 2021,
+    "populacao_estimada": 6085,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414159",
+    "nome_municipio": "Tenente Laurentino Cruz",
+    "ano": 2024,
+    "populacao_estimada": 6118,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414159",
+    "nome_municipio": "Tenente Laurentino Cruz",
+    "ano": 2025,
+    "populacao_estimada": 6152,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414209",
+    "nome_municipio": "Tibau do Sul",
+    "ano": 2021,
+    "populacao_estimada": 14694,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414209",
+    "nome_municipio": "Tibau do Sul",
+    "ano": 2024,
+    "populacao_estimada": 17840,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414209",
+    "nome_municipio": "Tibau do Sul",
+    "ano": 2025,
+    "populacao_estimada": 18080,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414308",
+    "nome_municipio": "Timbaúba dos Batistas",
+    "ano": 2021,
+    "populacao_estimada": 2427,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414308",
+    "nome_municipio": "Timbaúba dos Batistas",
+    "ano": 2024,
+    "populacao_estimada": 2420,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414308",
+    "nome_municipio": "Timbaúba dos Batistas",
+    "ano": 2025,
+    "populacao_estimada": 2424,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414407",
+    "nome_municipio": "Touros",
+    "ano": 2021,
+    "populacao_estimada": 33716,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414407",
+    "nome_municipio": "Touros",
+    "ano": 2024,
+    "populacao_estimada": 34624,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414407",
+    "nome_municipio": "Touros",
+    "ano": 2025,
+    "populacao_estimada": 34767,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414456",
+    "nome_municipio": "Triunfo Potiguar",
+    "ano": 2021,
+    "populacao_estimada": 3195,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414456",
+    "nome_municipio": "Triunfo Potiguar",
+    "ano": 2024,
+    "populacao_estimada": 3474,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414456",
+    "nome_municipio": "Triunfo Potiguar",
+    "ano": 2025,
+    "populacao_estimada": 3477,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414506",
+    "nome_municipio": "Umarizal",
+    "ano": 2021,
+    "populacao_estimada": 10485,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414506",
+    "nome_municipio": "Umarizal",
+    "ano": 2024,
+    "populacao_estimada": 10671,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414506",
+    "nome_municipio": "Umarizal",
+    "ano": 2025,
+    "populacao_estimada": 10655,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414605",
+    "nome_municipio": "Upanema",
+    "ano": 2021,
+    "populacao_estimada": 14937,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414605",
+    "nome_municipio": "Upanema",
+    "ano": 2024,
+    "populacao_estimada": 14013,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414605",
+    "nome_municipio": "Upanema",
+    "ano": 2025,
+    "populacao_estimada": 14048,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414704",
+    "nome_municipio": "Várzea",
+    "ano": 2021,
+    "populacao_estimada": 5529,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414704",
+    "nome_municipio": "Várzea",
+    "ano": 2024,
+    "populacao_estimada": 5383,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414704",
+    "nome_municipio": "Várzea",
+    "ano": 2025,
+    "populacao_estimada": 5387,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414753",
+    "nome_municipio": "Venha-Ver",
+    "ano": 2021,
+    "populacao_estimada": 4232,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414753",
+    "nome_municipio": "Venha-Ver",
+    "ano": 2024,
+    "populacao_estimada": 3035,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414753",
+    "nome_municipio": "Venha-Ver",
+    "ano": 2025,
+    "populacao_estimada": 3005,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414803",
+    "nome_municipio": "Vera Cruz",
+    "ano": 2021,
+    "populacao_estimada": 12789,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414803",
+    "nome_municipio": "Vera Cruz",
+    "ano": 2024,
+    "populacao_estimada": 11044,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414803",
+    "nome_municipio": "Vera Cruz",
+    "ano": 2025,
+    "populacao_estimada": 11053,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414902",
+    "nome_municipio": "Viçosa",
+    "ano": 2021,
+    "populacao_estimada": 1731,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414902",
+    "nome_municipio": "Viçosa",
+    "ano": 2024,
+    "populacao_estimada": 1890,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2414902",
+    "nome_municipio": "Viçosa",
+    "ano": 2025,
+    "populacao_estimada": 1900,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2415008",
+    "nome_municipio": "Vila Flor",
+    "ano": 2021,
+    "populacao_estimada": 3217,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2415008",
+    "nome_municipio": "Vila Flor",
+    "ano": 2024,
+    "populacao_estimada": 3289,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  },
+  {
+    "codigo_municipio": "2415008",
+    "nome_municipio": "Vila Flor",
+    "ano": 2025,
+    "populacao_estimada": 3304,
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "url": "https://sidra.ibge.gov.br/tabela/6579"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "codigo_sgs": 433,
+    "indicador": "IPCA mensal",
+    "data": "01/09/2024",
+    "valor": 0.44,
+    "unidade": "% a.m.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 433,
+    "indicador": "IPCA mensal",
+    "data": "01/10/2024",
+    "valor": 0.56,
+    "unidade": "% a.m.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 433,
+    "indicador": "IPCA mensal",
+    "data": "01/11/2024",
+    "valor": 0.39,
+    "unidade": "% a.m.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 433,
+    "indicador": "IPCA mensal",
+    "data": "01/12/2024",
+    "valor": 0.52,
+    "unidade": "% a.m.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 433,
+    "indicador": "IPCA mensal",
+    "data": "01/01/2025",
+    "valor": 0.16,
+    "unidade": "% a.m.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 433,
+    "indicador": "IPCA mensal",
+    "data": "01/02/2025",
+    "valor": 1.31,
+    "unidade": "% a.m.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 433,
+    "indicador": "IPCA mensal",
+    "data": "01/03/2025",
+    "valor": 0.56,
+    "unidade": "% a.m.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 433,
+    "indicador": "IPCA mensal",
+    "data": "01/04/2025",
+    "valor": 0.43,
+    "unidade": "% a.m.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 433,
+    "indicador": "IPCA mensal",
+    "data": "01/05/2025",
+    "valor": 0.26,
+    "unidade": "% a.m.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 433,
+    "indicador": "IPCA mensal",
+    "data": "01/06/2025",
+    "valor": 0.24,
+    "unidade": "% a.m.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 433,
+    "indicador": "IPCA mensal",
+    "data": "01/07/2025",
+    "valor": 0.26,
+    "unidade": "% a.m.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 433,
+    "indicador": "IPCA mensal",
+    "data": "01/08/2025",
+    "valor": -0.11,
+    "unidade": "% a.m.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 433,
+    "indicador": "IPCA mensal",
+    "data": "01/09/2025",
+    "valor": 0.48,
+    "unidade": "% a.m.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 433,
+    "indicador": "IPCA mensal",
+    "data": "01/10/2025",
+    "valor": 0.09,
+    "unidade": "% a.m.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 433,
+    "indicador": "IPCA mensal",
+    "data": "01/11/2025",
+    "valor": 0.18,
+    "unidade": "% a.m.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 433,
+    "indicador": "IPCA mensal",
+    "data": "01/12/2025",
+    "valor": 0.33,
+    "unidade": "% a.m.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 433,
+    "indicador": "IPCA mensal",
+    "data": "01/01/2026",
+    "valor": 0.33,
+    "unidade": "% a.m.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 433,
+    "indicador": "IPCA mensal",
+    "data": "01/02/2026",
+    "valor": 0.7,
+    "unidade": "% a.m.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 433,
+    "indicador": "IPCA mensal",
+    "data": "01/03/2026",
+    "valor": 0.88,
+    "unidade": "% a.m.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 433,
+    "indicador": "IPCA mensal",
+    "data": "01/04/2026",
+    "valor": 0.67,
+    "unidade": "% a.m.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 432,
+    "indicador": "Meta Selic",
+    "data": "29/05/2026",
+    "valor": 14.5,
+    "unidade": "% a.a.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 432,
+    "indicador": "Meta Selic",
+    "data": "30/05/2026",
+    "valor": 14.5,
+    "unidade": "% a.a.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 432,
+    "indicador": "Meta Selic",
+    "data": "31/05/2026",
+    "valor": 14.5,
+    "unidade": "% a.a.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 432,
+    "indicador": "Meta Selic",
+    "data": "01/06/2026",
+    "valor": 14.5,
+    "unidade": "% a.a.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 432,
+    "indicador": "Meta Selic",
+    "data": "02/06/2026",
+    "valor": 14.5,
+    "unidade": "% a.a.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 432,
+    "indicador": "Meta Selic",
+    "data": "03/06/2026",
+    "valor": 14.5,
+    "unidade": "% a.a.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 432,
+    "indicador": "Meta Selic",
+    "data": "04/06/2026",
+    "valor": 14.5,
+    "unidade": "% a.a.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 432,
+    "indicador": "Meta Selic",
+    "data": "05/06/2026",
+    "valor": 14.5,
+    "unidade": "% a.a.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 432,
+    "indicador": "Meta Selic",
+    "data": "06/06/2026",
+    "valor": 14.5,
+    "unidade": "% a.a.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 432,
+    "indicador": "Meta Selic",
+    "data": "07/06/2026",
+    "valor": 14.5,
+    "unidade": "% a.a.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 432,
+    "indicador": "Meta Selic",
+    "data": "08/06/2026",
+    "valor": 14.5,
+    "unidade": "% a.a.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 432,
+    "indicador": "Meta Selic",
+    "data": "09/06/2026",
+    "valor": 14.5,
+    "unidade": "% a.a.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 432,
+    "indicador": "Meta Selic",
+    "data": "10/06/2026",
+    "valor": 14.5,
+    "unidade": "% a.a.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 432,
+    "indicador": "Meta Selic",
+    "data": "11/06/2026",
+    "valor": 14.5,
+    "unidade": "% a.a.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 432,
+    "indicador": "Meta Selic",
+    "data": "12/06/2026",
+    "valor": 14.5,
+    "unidade": "% a.a.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 432,
+    "indicador": "Meta Selic",
+    "data": "13/06/2026",
+    "valor": 14.5,
+    "unidade": "% a.a.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 432,
+    "indicador": "Meta Selic",
+    "data": "14/06/2026",
+    "valor": 14.5,
+    "unidade": "% a.a.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 432,
+    "indicador": "Meta Selic",
+    "data": "15/06/2026",
+    "valor": 14.5,
+    "unidade": "% a.a.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 432,
+    "indicador": "Meta Selic",
+    "data": "16/06/2026",
+    "valor": 14.5,
+    "unidade": "% a.a.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 432,
+    "indicador": "Meta Selic",
+    "data": "17/06/2026",
+    "valor": 14.5,
+    "unidade": "% a.a.",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 1,
+    "indicador": "Dolar comercial venda",
+    "data": "17/04/2026",
+    "valor": 4.9695,
+    "unidade": "R$/US$",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 1,
+    "indicador": "Dolar comercial venda",
+    "data": "20/04/2026",
+    "valor": 4.9844,
+    "unidade": "R$/US$",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 1,
+    "indicador": "Dolar comercial venda",
+    "data": "22/04/2026",
+    "valor": 4.9653,
+    "unidade": "R$/US$",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 1,
+    "indicador": "Dolar comercial venda",
+    "data": "23/04/2026",
+    "valor": 4.9539,
+    "unidade": "R$/US$",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 1,
+    "indicador": "Dolar comercial venda",
+    "data": "24/04/2026",
+    "valor": 5.0083,
+    "unidade": "R$/US$",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 1,
+    "indicador": "Dolar comercial venda",
+    "data": "27/04/2026",
+    "valor": 4.97,
+    "unidade": "R$/US$",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 1,
+    "indicador": "Dolar comercial venda",
+    "data": "28/04/2026",
+    "valor": 4.9878,
+    "unidade": "R$/US$",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 1,
+    "indicador": "Dolar comercial venda",
+    "data": "29/04/2026",
+    "valor": 4.9985,
+    "unidade": "R$/US$",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 1,
+    "indicador": "Dolar comercial venda",
+    "data": "30/04/2026",
+    "valor": 4.9886,
+    "unidade": "R$/US$",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 1,
+    "indicador": "Dolar comercial venda",
+    "data": "04/05/2026",
+    "valor": 4.9587,
+    "unidade": "R$/US$",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 1,
+    "indicador": "Dolar comercial venda",
+    "data": "05/05/2026",
+    "valor": 4.9242,
+    "unidade": "R$/US$",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 1,
+    "indicador": "Dolar comercial venda",
+    "data": "06/05/2026",
+    "valor": 4.9274,
+    "unidade": "R$/US$",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 1,
+    "indicador": "Dolar comercial venda",
+    "data": "07/05/2026",
+    "valor": 4.917,
+    "unidade": "R$/US$",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 1,
+    "indicador": "Dolar comercial venda",
+    "data": "08/05/2026",
+    "valor": 4.8999,
+    "unidade": "R$/US$",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 1,
+    "indicador": "Dolar comercial venda",
+    "data": "11/05/2026",
+    "valor": 4.8973,
+    "unidade": "R$/US$",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 1,
+    "indicador": "Dolar comercial venda",
+    "data": "12/05/2026",
+    "valor": 4.8977,
+    "unidade": "R$/US$",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 1,
+    "indicador": "Dolar comercial venda",
+    "data": "13/05/2026",
+    "valor": 4.9118,
+    "unidade": "R$/US$",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 1,
+    "indicador": "Dolar comercial venda",
+    "data": "14/05/2026",
+    "valor": 4.9809,
+    "unidade": "R$/US$",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 1,
+    "indicador": "Dolar comercial venda",
+    "data": "15/05/2026",
+    "valor": 5.0654,
+    "unidade": "R$/US$",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json"
+  },
+  {
+    "codigo_sgs": 1,
+    "indicador": "Dolar comercial venda",
+    "data": "18/05/2026",
+    "valor": 5.0093,
+    "unidade": "R$/US$",
+    "fonte": "Banco Central do Brasil - SGS",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json"
+  }
+]

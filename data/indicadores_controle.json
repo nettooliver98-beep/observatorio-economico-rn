@@ -1,0 +1,119 @@
+[
+  {
+    "aba": "Visao Geral",
+    "indicador": "PIB municipal",
+    "fonte": "IBGE - PIB dos Municipios",
+    "nivel": "Municipal",
+    "periodicidade": "Anual",
+    "situacao": "Integrado",
+    "observacao": "Ja alimenta mapa, ranking e serie anual."
+  },
+  {
+    "aba": "PIB e Renda",
+    "indicador": "PIB per capita",
+    "fonte": "IBGE - PIB dos Municipios",
+    "nivel": "Municipal",
+    "periodicidade": "Anual",
+    "situacao": "Integrado",
+    "observacao": "Calculado a partir de PIB e populacao municipal existente na base."
+  },
+  {
+    "aba": "Estrutura Economica",
+    "indicador": "Valor adicionado bruto por setor",
+    "fonte": "IBGE - PIB dos Municipios",
+    "nivel": "Municipal",
+    "periodicidade": "Anual",
+    "situacao": "Integrado",
+    "observacao": "Inclui industria, servicos e administracao publica."
+  },
+  {
+    "aba": "Emprego Formal",
+    "indicador": "Vinculos formais",
+    "fonte": "RAIS",
+    "nivel": "Municipal",
+    "periodicidade": "Anual",
+    "situacao": "Integrado",
+    "observacao": "Base ja convertida para JSON."
+  },
+  {
+    "aba": "Movimentacao do Emprego",
+    "indicador": "Admissoes, desligamentos e saldo",
+    "fonte": "Novo CAGED",
+    "nivel": "Municipal",
+    "periodicidade": "Mensal",
+    "situacao": "Integrado",
+    "observacao": "Base ja convertida para JSON."
+  },
+  {
+    "aba": "Demografia",
+    "indicador": "Populacao residente do RN",
+    "fonte": "IBGE/SIDRA tabela 7436",
+    "nivel": "Estadual",
+    "periodicidade": "Anual",
+    "situacao": "Parcial",
+    "observacao": "Disponivel para RN agregado; nao traz os 167 municipios."
+  },
+  {
+    "aba": "Contas Publicas",
+    "indicador": "Receitas, despesas e desempenho orcamentario",
+    "fonte": "SICONFI/Tesouro Nacional ou painel Power BI analisado",
+    "nivel": "Municipal",
+    "periodicidade": "Anual",
+    "situacao": "Pendente",
+    "observacao": "Power BI indicou as abas; falta baixar a fonte oficial."
+  },
+  {
+    "aba": "Educacao",
+    "indicador": "Escolas, docentes, matriculas e desempenho",
+    "fonte": "INEP",
+    "nivel": "Municipal",
+    "periodicidade": "Anual",
+    "situacao": "Pendente",
+    "observacao": "Power BI indicou os temas; falta coletar microdados ou sinopses oficiais."
+  },
+  {
+    "aba": "IPC / Inflacao",
+    "indicador": "Variacao de precos",
+    "fonte": "IBGE/IPCA, IDEMA ou fonte local definida",
+    "nivel": "Estadual ou capital",
+    "periodicidade": "Mensal",
+    "situacao": "Pendente",
+    "observacao": "Nao deve usar mapa municipal se a fonte nao for municipal."
+  },
+  {
+    "aba": "Cesta Basica",
+    "indicador": "Valor da cesta basica",
+    "fonte": "DIEESE, CONAB, IDEMA ou pesquisa local",
+    "nivel": "Capital ou estadual",
+    "periodicidade": "Mensal",
+    "situacao": "Pendente",
+    "observacao": "Confirmar metodologia e cobertura territorial."
+  },
+  {
+    "aba": "Demografia",
+    "indicador": "Populacao estimada municipal",
+    "fonte": "IBGE/SIDRA tabela 6579",
+    "nivel": "Municipal",
+    "periodicidade": "Anual",
+    "situacao": "Integrado parcial",
+    "observacao": "Serie municipal obtida para 2021, 2024 e 2025."
+  },
+  {
+    "aba": "IPC / Inflacao",
+    "indicador": "IPCA mensal",
+    "fonte": "Banco Central do Brasil - SGS serie 433",
+    "nivel": "Brasil",
+    "periodicidade": "Mensal",
+    "situacao": "Integrado parcial",
+    "observacao": "Serie macro nacional; ainda falta indicador local do RN."
+  },
+  {
+    "aba": "Contas Publicas",
+    "indicador": "Cadastro de entes municipais",
+    "fonte": "SICONFI/Tesouro Nacional",
+    "nivel": "Municipal",
+    "periodicidade": "Cadastro",
+    "situacao": "Integrado auxiliar",
+    "observacao": "Lista dos 167 municipios do RN com codigo IBGE, CNPJ e populacao de referencia."
+  }
+]
